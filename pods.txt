@@ -1,0 +1,5 @@
+pods:
+	⁃	ezsdwiftextensions
+	⁃	material
+	⁃	paper-on-boarding ( haven’t tried it yet)
+	⁃	chameleon
